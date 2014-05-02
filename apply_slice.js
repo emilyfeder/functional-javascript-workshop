@@ -1,0 +1,1 @@
+module.exports = slice = Function.call.bind(Array.prototype.slice);
